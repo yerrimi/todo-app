@@ -12,7 +12,7 @@ const App = () => {
     },
     {
       id: 2,
-      text: '주간의 스케쥴 입력하기',
+      text: '일정관리 앱 v1.0 제작',
       checked: false,
     },
     {
