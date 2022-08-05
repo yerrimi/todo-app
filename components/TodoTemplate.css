@@ -1,0 +1,43 @@
+.TodoTemplate {
+  width: 512px;
+
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 6rem;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.TodoTemplate>.app-title {
+  background: #cf85cc;
+  color: #fff;
+  font-weight: 600;
+  height: 150px;
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.TodoTemplate>.content {
+  background: white;
+  color: #333;
+}
+
+.TodoTemplate .imwidth {
+  height: 62px;
+  padding-left: 25px;
+}
+
+.appfooter {
+  text-align: center;
+  height: 40px;
+  background: #c95fc5;
+  color: #fff;
+  font-weight: 500;
+  line-height: 2;
+  font-size: 18px;
+}
+
+.appfooter span{display: inline-block; font-size: 20px; cursor: pointer;}
